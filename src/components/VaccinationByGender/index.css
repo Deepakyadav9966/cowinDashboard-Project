@@ -1,0 +1,16 @@
+/* Write your CSS here */
+@media screen and (min-width: 1200px) {
+  .gender-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #1c1c2b;
+    padding: 10px 20px 10px 20px;
+    margin-top: 20px;
+  }
+
+  .gender-heading {
+    color: #94a3b8;
+    font-family: 'Roboto';
+    font-size: 20px;
+  }
+}
